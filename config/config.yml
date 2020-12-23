@@ -1,0 +1,9 @@
+##
+# Basic
+#
+site_title: Klimabuendnis Karlsruhe                    # The title of your website
+
+##
+# Theme
+#
+theme: dimension                      # The name of your custom theme
